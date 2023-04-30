@@ -50,6 +50,7 @@ Siguiendo un patrón de diseño MVS, haciendo uso de las buenas prácticas apren
 
 Pronto desarrollaría los métodos que realizan las especificaciones funcionales solicitadas que a continuación muestro en el siguiente video:
 
+
 <p align="center" >
 
 https://user-images.githubusercontent.com/123969172/235333406-dadc3101-b300-4c9c-8402-8258a4f9f60b.mp4
@@ -57,16 +58,24 @@ https://user-images.githubusercontent.com/123969172/235333406-dadc3101-b300-4c9c
 </p></br>
 
 <p align="center" >
-     
-https://user-images.githubusercontent.com/123969172/235333530-1a62b07f-95be-4da4-a5be-2936d4c19cc8.mp4
+
+https://user-images.githubusercontent.com/123969172/235334092-6cd33d66-9c20-4cd2-9b0a-d42ccfe54cf7.mp4
 
 </p></br>
 
 
 
+<p align="center" >
+
+https://user-images.githubusercontent.com/123969172/235334445-a0cafdb2-5508-48ea-92c8-d634b37af6db.mp4
+
+</p></br>
  
+<p align="center" >
 
+https://user-images.githubusercontent.com/123969172/235334732-f06f4674-c8ba-43e8-8e94-a6e985a9a31e.mp4
 
+</p></br>
 
 
 
