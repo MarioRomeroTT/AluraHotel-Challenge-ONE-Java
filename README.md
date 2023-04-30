@@ -35,7 +35,16 @@ Las consignas funcionalidades requeridas fueron las siguientes:
 ---
 ### Resolución.
 
-Para cumplir el challenge tuve que iniciar creando una base de datos en MySql y crea en ellas las tablas y relaciones planteadas.
+Comencé creando una base de datos en <strong> MySql</strong> y como así también las tablas y relaciones planteadas.
+![Diagrama Entidades](https://user-images.githubusercontent.com/123969172/235332167-a9110a73-db72-4c0a-b2a6-c3394a76a07b.png)
+
+Importe los  archivos <strong>.jar</strong> necesarios y luego continue con la implementación de la <strong> API JDBC </strong> para establecer la conexión a la base de datos por intermedio de un pool de conexiones<strong>c3P0</strong>.
+
+Siguiendo un patrón de diseño MVS, haciendo uso de las buenas prácticas aprendida en los cursos, comencé a delinear la capa lógica del backend de la app del <strong> Hotel Alura</strong>.  
+
+<img width="215" alt="mvc" src="https://user-images.githubusercontent.com/123969172/235332236-ba5dbacd-fc25-4ba1-85fb-3063085cc965.png">
+
+
 
 
 
