@@ -27,7 +27,7 @@ Las consignas funcionalidades requeridas fueron las siguientes:
 
 - Autentificación de usuario</br>
 - Registración de reservas</br>
-- Calular el valor de la reserva en base a la cantidad de días de la reserva y al valor por noche definido</br>
+- Calcular el valor de la reserva en base a la cantidad de días de la reserva y al valor por noche definido</br>
 - Registración de huesped asociado a la reserva</br>
 - Busqueda en la base de datos de la información tanto de los huespedes como de las reservas </br>
 - Implementación de metodos de filtrado, modificación y eliminación de registros </br>
@@ -36,13 +36,34 @@ Las consignas funcionalidades requeridas fueron las siguientes:
 ### Resolución.
 
 Comencé creando una base de datos en <strong> MySql</strong> y como así también las tablas y relaciones planteadas.
+<p align="center" >
 ![Diagrama Entidades](https://user-images.githubusercontent.com/123969172/235332167-a9110a73-db72-4c0a-b2a6-c3394a76a07b.png)
+     </p>
 
 Importe los  archivos <strong>.jar</strong> necesarios y luego continue con la implementación de la <strong> API JDBC </strong> para establecer la conexión a la base de datos por intermedio de un pool de conexiones<strong>c3P0</strong>.
 
 Siguiendo un patrón de diseño MVS, haciendo uso de las buenas prácticas aprendida en los cursos, comencé a delinear la capa lógica del backend de la app del <strong> Hotel Alura</strong>.  
 
+<p align="center" >
 <img width="215" alt="mvc" src="https://user-images.githubusercontent.com/123969172/235332236-ba5dbacd-fc25-4ba1-85fb-3063085cc965.png">
+     </p>
+
+Pronto desarrollaría los métodos que realizan las especificaciones funcionales solicitadas que a continuación muestro en el siguiente video:
+
+<p align="center" >
+
+https://user-images.githubusercontent.com/123969172/235333406-dadc3101-b300-4c9c-8402-8258a4f9f60b.mp4
+
+</p></br>
+
+<p align="center" >
+https://user-images.githubusercontent.com/123969172/235333530-1a62b07f-95be-4da4-a5be-2936d4c19cc8.mp4
+
+</p></br>
+
+
+
+ 
 
 
 
