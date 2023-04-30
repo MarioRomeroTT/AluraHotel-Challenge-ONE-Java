@@ -327,6 +327,7 @@ public class ReservasView extends JFrame {
 		 
 		 RegistroHuesped registro = new RegistroHuesped(nuevaReserva.getId());
 		 registro.setVisible(true);
+		 dispose();
 	 }
 	
 	

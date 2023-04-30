@@ -233,6 +233,9 @@ public class Login extends JFrame {
 	            dispose();	 
 	        }else {
 	            JOptionPane.showMessageDialog(this, "Usuario o Contraseña no válidos");
+	            txtUsuario.setText("Ingrese su nombre de usuario");
+	            txtContrasena.setText("********");
+	            	
 	        }
 	} 
 	 private void headerMousePressed(java.awt.event.MouseEvent evt) {

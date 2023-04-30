@@ -13,11 +13,14 @@
 - Eclipse
 - Biblioteca JCalendar
 - MySql
+- API JDBC
 - Plugin WindowBuilder </br>
 
 ---
 
-Se nos desafio a desarrollar el BackEnd para una aplicacion Desktop para llevar el control de las reservaciones hechas por los clientes
+### Sobre las consignas del desafío.
+
+Se nos desafió a desarrollar el BackEnd para una aplicacion Desktop para llevar el control de las reservaciones hechas por los clientes
 del <strong>Hotel Alura</strong>
 
 Las consignas funcionalidades requeridas fueron las siguientes:
@@ -28,6 +31,15 @@ Las consignas funcionalidades requeridas fueron las siguientes:
 - Registración de huesped asociado a la reserva</br>
 - Busqueda en la base de datos de la información tanto de los huespedes como de las reservas </br>
 - Implementación de metodos de filtrado, modificación y eliminación de registros </br>
+
+---
+### Resolución.
+
+Para cumplir el challenge tuve que iniciar creando una base de datos en MySql y crea en ellas las tablas y relaciones planteadas.
+
+
+
+
 
 <p align="center" >
 

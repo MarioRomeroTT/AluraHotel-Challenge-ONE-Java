@@ -49,13 +49,6 @@ public class RegistroHuesped extends JFrame {
 	
 	private HuespedesController huespedesControlle;
 	
-	public static void main(String[] args) {
-		RegistroHuesped ver = new RegistroHuesped(5);
-		ver.setVisible(true);
-		
-	}
-
-	
 	/**
 	 * Create the frame.
 	 */
@@ -342,11 +335,12 @@ public class RegistroHuesped extends JFrame {
 														txtTelefono.getText(), 
 														nreserva);				
 				this.huespedesControlle.guardar(nuevoHuesped);
+				
 				Exito dialog = new Exito();
 				dialog.setVisible(true);
 				dispose();
 				
-			} else {	JOptionPane.showMessageDialog(null, "Debes llenar todos los campos.");
+			} else {JOptionPane.showMessageDialog(null, "Debes llenar todos los campos.");
 			} 
 		
 		
