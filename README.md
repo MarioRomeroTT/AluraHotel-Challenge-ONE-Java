@@ -40,7 +40,6 @@ Comencé creando una base de datos en <strong> MySql</strong> y como así tambi�
 <p align="center" >
 
 ![Diagrama Entidades](https://user-images.githubusercontent.com/123969172/235332167-a9110a73-db72-4c0a-b2a6-c3394a76a07b.png)
-
      </p>
 
 Importe los  archivos <strong>.jar</strong> necesarios y luego continue con la implementación de la <strong> API JDBC </strong> para establecer la conexión a la base de datos por intermedio de un pool de conexiones<strong>c3P0</strong>.
